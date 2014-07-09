@@ -1,0 +1,21 @@
+[
+{
+  "modid": "RandomThings",
+  "name": "Random Things Mod",
+  "description": "Some Random Stuff For You!",
+  "version": "1.7.2-14w28a",
+  "mcversion": "1.7.2",
+  "url": "randomthings.criliscraft.net",
+  "updateUrl": "",
+  "authorList": [
+    "Christophernjsp"
+  ],
+  "credits": "Christophernjsp",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
