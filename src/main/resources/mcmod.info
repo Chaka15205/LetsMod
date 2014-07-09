@@ -1,16 +1,16 @@
 [
 {
   "modid": "RandomThings",
-  "name": "Random Things Mod",
-  "description": "Some Random Stuff For You!",
-  "version": "1.7.10-14w28a",
+  "name": "Random Things",
+  "description": "Tons of random and useful things!",
+  "version": "14w28a",
   "mcversion": "1.7.10",
-  "url": "randomthings.criliscraft.net",
+  "url": "",
   "updateUrl": "",
   "authorList": [
     "Christophernjsp"
   ],
-  "credits": "Christophernjsp",
+  "credits": "To all my patrons and contributers.",
   "logoFile": "",
   "screenshots": [
   ],
